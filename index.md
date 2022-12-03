@@ -1,4 +1,4 @@
 ---
-title: Welcome to Kimyana's blog
+title: Kimyana's Portfolio
 ---
 
