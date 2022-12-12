@@ -219,7 +219,7 @@ section .title::after{
     background-size: 2000px;
 }
 .about .title::after{
-    content: "Who I am";
+    content: "Brief decsription:";
 }
 .about .about-content .left{
    width: 45%;
@@ -281,8 +281,8 @@ section .title::after{
     background: white;
 }
  .services .title::after{
-     background: black;
-     content: "What I provide";
+     background: cream;
+     content: "What I created";
  }
  .services .serv-content .card{
      width: calc(33% - 20px);
