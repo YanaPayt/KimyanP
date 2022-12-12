@@ -136,7 +136,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
-    color: white;
+    color: #120802;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -238,7 +238,7 @@ section .title::after{
     width: 55%;
  }
  .about .about-content .right .text{
-    color: white;
+    color: #120802;
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -247,7 +247,7 @@ section .title::after{
      color: #266e25;
  }
  .about .about-content .right .paragraph{
-     color: white;
+     color: #120802;
      font-size: 18px;
  }
  .about .about-content .right .p{
@@ -266,22 +266,22 @@ section .title::after{
     transition: all 0.3s ease;
  }
  .about .about-content .right a:hover{
-     color: white;
+     color: #120802;
      background:none;
  }
  
  /* services styling */
  .services{
-     color: white;
+     color: #120802;
      background:black;
      background: url("annie-spratt-OTy0mkqc2Yk-unsplash.jpg");
      background-size: 2000px;
  }
  .services .title::before{
-    background: white;
+    background: #120802;
 }
  .services .title::after{
-     background: cream;
+     background: #120802;
      content: "What I created";
  }
  .services .serv-content .card{
@@ -472,7 +472,7 @@ section .title::after{
  }
  .contact .contact-content .left .paragraph-3{
      font-size: 18px;
-     color: white;
+     color: #120802;
  }
  .contact .contact-content .left .icons{
      margin: 10px 0;
@@ -490,11 +490,11 @@ section .title::after{
      color: #266e25;
  }
  .contact .contact-content .info .head{
-     color: white;
+     color: #120802;
      font-weight: 500;
  }
  .contact .contact-content .info .sub-title{
-    color: white;
+    color: #120802;
 }
 .contact .right form .fields{
    display: flex;
@@ -522,7 +522,7 @@ section .title::after{
     height: 100%;
     width: 100%;
     border:2px solid #266e25;
-    color: white;
+    color: #120802;
     border-radius: 6px;
     outline: none;
     padding: 0 15px;
@@ -544,7 +544,7 @@ section .title::after{
     height: 100%;
     border: 0.1px solid #266e25;
     background: none;
-    color: white;
+    color: #120802;
     font-size: 20px;
     font-weight: 500;
     border-radius: 6px;
@@ -559,7 +559,7 @@ section .title::after{
 footer{
     background: url("") ;
     padding: 20px 23px;
-    color: white;
+    color: #120802;
 }
 
 footer .text-center {
@@ -576,13 +576,13 @@ footer i{
     transition: color 0.3s ease;
 }
 footer span a:hover{
-    color: white;
+    color: #120802;
 }
 footer i{
     font-size: 27px;
 }
 footer i:hover{
-    color: white;
+    color: #120802;
 }
 
 /* CSS for scroll to top button */
@@ -691,7 +691,7 @@ footer i:hover{
         width: 100%;
         left:-100%;
         top: 0;
-        background: black;
+        background: white;
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
