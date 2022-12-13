@@ -209,7 +209,7 @@ section .title::after{
     font-size: 20px;
     color: #266e25;
     padding: 5px;
-    background: none;
+    background: #ebd4ca;
     transform: translateX(-50%);
 }
 /* about section styling */
@@ -272,7 +272,7 @@ section .title::after{
  /* services styling */
  .services{
      color: #120802;
-     background:none;
+     background:#ebd4ca;
      background: url("annie-spratt-OTy0mkqc2Yk-unsplash.jpg");
      background-size: 2000px;
  }
