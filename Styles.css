@@ -106,7 +106,7 @@ body{
     height: 2px;
     left: 50%;
     position: absolute;
-    background: #73966f;
+    background: #05381d;
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0;
   }
@@ -123,7 +123,7 @@ body{
 }
 
 .menu-btn{
-    color: #73966f;
+    color: #05381d;
     font-size: 30px;
     cursor: pointer;
     display: none;
@@ -135,7 +135,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
-    color: #73966f;
+    color: #05381d;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -237,7 +237,7 @@ section .title::after{
     width: 55%;
  }
  .about .about-content .right .text{
-    color: #73966f;
+    color: #05381d;
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -246,7 +246,7 @@ section .title::after{
      color: #266e25;
  }
  .about .about-content .right .paragraph{
-     color: #73966f;
+     color: #05381d;
      font-size: 18px;
  }
  .about .about-content .right .p{
@@ -265,19 +265,19 @@ section .title::after{
     transition: all 0.3s ease;
  }
  .about .about-content .right a:hover{
-     color: #73966f;
+     color: #05381d;
      background:none;
  }
  
  /* services styling */
  .services{
-     color: #73966f;
+     color: #05381d;
      background:#daebdf;
      background: url("annie-spratt-OTy0mkqc2Yk-unsplash.jpg");
      background-size: 2000px;
  }
  .services .title::before{
-    background: #73966f;
+    background: #05381d;
 }
  .services .title::after{
      background: #daebdf;
@@ -471,7 +471,7 @@ section .title::after{
  }
  .contact .contact-content .left .paragraph-3{
      font-size: 18px;
-     color: #73966f;
+     color: #05381d;
  }
  .contact .contact-content .left .icons{
      margin: 10px 0;
@@ -489,11 +489,11 @@ section .title::after{
      color: #266e25;
  }
  .contact .contact-content .info .head{
-     color: #73966f;
+     color: #05381d;
      font-weight: 500;
  }
  .contact .contact-content .info .sub-title{
-    color: #73966f;
+    color: #05381d;
 }
 .contact .right form .fields{
    display: flex;
@@ -521,7 +521,7 @@ section .title::after{
     height: 100%;
     width: 100%;
     border:2px solid #266e25;
-    color: #73966f;
+    color: #05381d;
     border-radius: 6px;
     outline: none;
     padding: 0 15px;
@@ -543,7 +543,7 @@ section .title::after{
     height: 100%;
     border: 0.1px solid #266e25;
     background: none;
-    color: #73966f;
+    color: #05381d;
     font-size: 20px;
     font-weight: 500;
     border-radius: 6px;
