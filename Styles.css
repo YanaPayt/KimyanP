@@ -218,7 +218,7 @@ section .title::after{
     background-size: 2000px;
 }
 .about .title::after{
-    content: "Brief decsription:";
+    content: "Get To Know Me";
 }
 .about .about-content .left{
    width: 45%;
@@ -281,7 +281,7 @@ section .title::after{
 }
  .services .title::after{
      background: #daebdf;
-     content: "What I created";
+     content: "What I Created";
  }
  .services .serv-content .card{
      width: calc(33% - 20px);
@@ -454,7 +454,7 @@ section .title::after{
     background-size: 2000px;
  }
  .contact .title::after{
-     content: "Get in touch";
+     content: "Get In Touch";
  }
 
  .contact .contact-content .column{
